@@ -1,3 +1,3 @@
-# PROTOTIPAZIONE VIRTUALE
+## PROTOTIPAZIONE VIRTUALE
 
-Progetto ed Esercitazioni del corso di Prototipazione Vrituale 2024/2025, CATIA
+🤖⚠️ Progetto di fine corso ed Esercitazioni del corso di Prototipazione Vrituale (PV) 2024/2025, CATIA V5 ⚠️🤖
